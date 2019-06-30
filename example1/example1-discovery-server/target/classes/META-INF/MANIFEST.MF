@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: example1-discovery-server
+Implementation-Version: 1.0
+Built-By: sridharsrini
+Implementation-Vendor-Id: example1-discovery-server
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/example1/example1-discovery-server
+Created-By: Maven Integration for Eclipse
+
