@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ex2-config-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sridharsrini
+Implementation-Vendor-Id: ex2-simple-spring-cloud-config
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ex2-simple-spring-cloud-config/ex2-config-server
+Created-By: Maven Integration for Eclipse
+
